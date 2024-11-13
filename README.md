@@ -67,5 +67,5 @@ To enable multi-user support, we can encrypt each password with a unique key for
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
